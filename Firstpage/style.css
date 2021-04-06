@@ -1,0 +1,36 @@
+.changeColor {
+  font-size: 30px;
+  color: lightblue;
+  background-color: rgba(207, 44, 44, 0.233);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border: aqua;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.title {
+  font-size: 70px;
+  color: burlywood;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.klik {
+  color: rgb(98, 216, 20);
+}
+.zdjecie {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 50px lightseagreen;
+}
